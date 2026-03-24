@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kallol</h1>
 <h3 align="center">A passionate full stake developer from Bangladesh</h3>
 
-![image](IMG_5308.HEIC)
+![image](https://github.com/kallol-Dey229/kallol-Dey229/blob/main/SAVE_20230716_010257.jpg?raw=true)
 
 
 - 🌱 I’m currently learning **Dot net framework**
