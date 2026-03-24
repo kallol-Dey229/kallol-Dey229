@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **Dot net framework**
 
 - 🔭 Already done the project [Inventory Management Syastem](https://github.com/kallol-Dey229/Inventory-management-system-using_c_sharp-)
+- 🔭 Contributed in the project [Hostel Management System](https://github.com/rashedmojammel/HostelManagementSystem)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kallol-Dey229?tab=repositories](https://github.com/kallol-Dey229?tab=repositories)
 
