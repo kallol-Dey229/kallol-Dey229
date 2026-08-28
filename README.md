@@ -34,11 +34,11 @@
 
 ## 📌 Featured Projects
 
+### FitSync
+> A modern gym management platform built with **Next.js**, **Node.js**, **ExpressJs**, featuring authentication, role base gym management, and responsive UI.
+
 ### 📚 Online Book Borrowing Platform
 > A modern book borrowing platform built with **Next.js**, featuring authentication, book management, and responsive UI.
-
-### 🏨 Hostel Management System
-> Contributed to a complete hostel management solution with role-based features and database integration.
 
 ### 📦 Inventory Management System
 > Desktop-based inventory management system developed using **C#** and database connectivity.
