@@ -9,7 +9,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **.NET Framework**
 - 💻 Working with **Full Stack Web Development**
 - ⚡ Love building modern and responsive web applications
 - 📚 Interested in **Software Engineering & Problem Solving**
