@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kallol Dey</h1>
 <h3 align="center">A Passionate Full Stack Developer from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <img src="https://github.com/kallol-Dey229/kallol-Dey229/blob/main/SAVE_20230716_010257.jpg?raw=true" width="180" height="260" style="border-radius:10px;" />
-</p>
-
 --- 
 
 ## 🚀 About Me
